@@ -14,7 +14,7 @@ Mobile app built with Expo, React Native Maps, geolocation, local storage, i18n,
 - Maps, location permissions, background movement logic
 - Persistent user stats and multilingual UI
 
-[View repository](https://github.com/alinayevstropova/React-Native_MobileApp)
+[View repository](https://github.com/alinayevstropova/react-native-route-tracker)
 
 ### Excel to HTML desktop tool
 
@@ -24,7 +24,7 @@ Electron and React desktop utility for turning structured Excel data into reusab
 - XLSX parsing and ZIP processing
 - Desktop workflow for content automation
 
-[View repository](https://github.com/alinayevstropova/Electron-App)
+[View repository](https://github.com/alinayevstropova/excel-to-html-desktop-tool)
 
 ### Website Inspector browser extension
 
